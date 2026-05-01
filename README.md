@@ -146,7 +146,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 
 <div align="center">
-<img src="0f1fbfb1-b202-4d5e-8652-bdab88e8e01d.jpg"  src="WhatsApp Image 2026-05-01 at 2.17.14 PM.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="Sure Trust Plantation drive.jpg"  alt="Community Service Photo 1" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
