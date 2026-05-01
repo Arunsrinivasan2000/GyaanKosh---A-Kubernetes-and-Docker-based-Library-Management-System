@@ -110,8 +110,7 @@
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+> This project played a crucial role in strengthening both my technical foundation and teamwork skills. It helped me transition from a learning phase to applying knowledge in a practical setting, preparing me to work efficiently in a collaborative and fast-paced development environment.
 ---
 
 ## **Community Services**
@@ -144,10 +143,10 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
+
 
 <div align="center">
-<img src="0f1fbfb1-b202-4d5e-8652-bdab88e8e01d.jpg" alt="Community Service Photo 1" width="30%">
+<img src="0f1fbfb1-b202-4d5e-8652-bdab88e8e01d.jpg"  src="WhatsApp Image 2026-05-01 at 2.17.14 PM.jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
