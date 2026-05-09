@@ -148,7 +148,7 @@ During my internship period, I participated in multiple community-oriented activ
 <div align="center">
 <img src="Screenshot 2026-05-02 133955.png"  alt="Community Service Photo 1" width="30%">
 <img src="Screenshot 2026-05-02 134027.png" alt="Community Service Photo 2" width="30%">
-<img src="Screenshot 2026-05-02 134559.png" alt="Community Service Photo 3" width="30%">
+<img src="Screenshot 2026-05-02 160123.png" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
